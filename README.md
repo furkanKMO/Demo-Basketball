@@ -1,2 +1,2 @@
-# LacivertGamesDemo-Basketball
- Demo game for Lacivert Games
+Basketball
+ Demo game for portfolio
